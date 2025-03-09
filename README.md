@@ -7,7 +7,7 @@
 
 
 
-<img src="https://github.com/user-attachments/assets/9ef85aba-a7b8-4120-acf8-d903a1831c6f" alt="voxel" align="right" height=550>
+<img src="https://github.com/user-attachments/assets/9ef85aba-a7b8-4120-acf8-d903a1831c6f" alt="voxel" align="right" height=400>
 
 ### 🫣 About Me  
 I'm a **Web Developer & Python Enthusiast** with a strong foundation in building scalable and efficient solutions.  
