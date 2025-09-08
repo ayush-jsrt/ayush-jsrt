@@ -5,7 +5,8 @@
   Hi there! 👋 I'm Ayush Jasrotia
 </h1>
 
-
+<h3 align="center">"I want AI to do my laundary and dishes so that I can do my art and writing,</br>
+not for AI to do my art and writing so that I can do my laundary and dishes."</h3>
 
 <img src="https://github.com/user-attachments/assets/9ef85aba-a7b8-4120-acf8-d903a1831c6f" alt="voxel" align="right" height=400>
 
